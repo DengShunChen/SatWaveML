@@ -1,0 +1,12 @@
+
+1. create buoy station data with json format
+Create_buoy_station_JSON.ipynb
+
+2. create buoy data base
+Create_buoy_database.ipynb
+
+3. Wind and Wave analysis
+Buoy_WindWave.ipynb
+
+4. Plot buoy station
+Plot_Observation_Station.ipynb

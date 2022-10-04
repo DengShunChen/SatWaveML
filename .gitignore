@@ -128,4 +128,6 @@ ui-tests/playwright-report
 .vscode
 *.png
 *.nc
+
+*.db
 nohup.out
