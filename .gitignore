@@ -131,3 +131,4 @@ ui-tests/playwright-report
 
 *.db
 nohup.out
+index.html
