@@ -1,0 +1,22 @@
+install packages with pip: -r requirements.txt.
+
+# folders
+1. For Maching Learning work
+ai/
+
+2. For bouy data work
+bouy/
+
+3. For CCMP data work
+ccmp/
+
+---------------------------------
+# data base
+1. satwind and buoy data(raw)
+buoy_data.sqlite.db@  
+
+2. satwind and buoy data(adjusted by power law,p=0.8)
+buoy_data.sqlite.p8.db@  
+
+3. buoy station name 
+buoy_station_name.json@
