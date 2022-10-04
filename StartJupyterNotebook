@@ -1,0 +1,3 @@
+#!/bin/bash -ex
+
+jupyter notebook --no-browser --ip=`/bin/hostname`
