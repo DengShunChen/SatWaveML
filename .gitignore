@@ -132,3 +132,4 @@ ui-tests/playwright-report
 *.db
 nohup.out
 index.html
+ML_data*.json
